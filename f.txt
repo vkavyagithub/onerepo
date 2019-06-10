@@ -4,3 +4,8 @@
 4 win
 5win
 6ec2
+# <<<<<<< HEAD
+=======
+7ec2
+adding to check with barm
+# >>>>>>> refs/remotes/origin/master
